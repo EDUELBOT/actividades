@@ -1,7 +1,7 @@
 main(){
-    int N;
-    int i;
-    int suma=0;
+    let N;
+    let i;
+    let suma=0;
 
 
     printf("Teclee el valor de N\n");

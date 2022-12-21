@@ -1,9 +1,9 @@
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-    int maximo;
-    int num;
-    int mayor=0;
-    int cont;
+    let maximo;
+    let num;
+    let mayor=0;
+    let cont;
  
     System.out.println("Inserte el máximo de números: ");
     maximo = sc.nextInt();

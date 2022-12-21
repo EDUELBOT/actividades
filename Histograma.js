@@ -1,6 +1,6 @@
-int datoIngresado;
-int contadorPositivo=0;
-contadorNegativo=0;
+let datoIngresado;
+let contadorPositivo=0;
+let contadorNegativo=0;
 
 do{
     datoIngresado = prompt("ingresar un valor entero positivo o negativo, termina con 0");
@@ -11,13 +11,13 @@ do{
         contadorNegativo++;
     }
 }while(datoIngresado !=0)
-int renglon="positivos:";
-for(int i=0;i<contadorPositivo;i=++){
+let = renglon="positivos:";
+for(let i=0;i<contadorPositivo;i=++){
     console.log("*")
 }
 console.log(renglon);
-int renglon="negativos";
-for(int i=0;i<contadorNegativo;i=++){
+let = renglon="negativos";
+for(let i=0;i<contadorNegativo;i=++){
     console.log("*")
 }
 

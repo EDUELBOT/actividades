@@ -1,6 +1,6 @@
-a = int(input('a: '))
-b = int(input('b: '))
-c = int(input('c: '))
+a = let(input('a: '))
+b = let(input('b: '))
+c = let(input('c: '))
 
 if a > b:
    if a > c:

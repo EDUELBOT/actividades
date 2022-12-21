@@ -1,6 +1,6 @@
 public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
-    int num=0;
+    let num=0;
     do{
         try{
             System.out.print("Intoduce un numero ");

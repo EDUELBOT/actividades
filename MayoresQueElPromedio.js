@@ -1,4 +1,4 @@
-int = (raw_imput("¿cuantos datos ingresara?: "));
+let (raw_imput("¿cuantos datos ingresara?: "));
 datos =[]
 for 1 in range(1 , n+1):
      num = Float(raw_imput("datos: "%(i)))
