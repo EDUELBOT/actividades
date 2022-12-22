@@ -32,5 +32,5 @@ if(numero.toString().match(/^[0-9]+$/)){
         
         console.log(numero.toString()+"-"+resta.toString());
 }else{
-        alert("no son digitos numericos");
+        alert("no son digitos numerico");
     }
