@@ -1,5 +1,5 @@
 let filaString = prompt("ingresa el movimiento del caballo");
-let ColumnaString = prompt("ingresa la columna")
+let ColumnaString = prompt("ingresa la columnaas")
 
 let fila = parseInt(filaString);
 let columna = parseInt(ColumnaString);

@@ -6,5 +6,5 @@ let numero, caracteres;
   if(caracteres.match(/^[0-9]+$/)){
     console.log(caracteres.length);
   }else{
-    console.log("No es un numero entero");
+    console.log("No es un numeroo entero");
   }  

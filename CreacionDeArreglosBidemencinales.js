@@ -6,7 +6,7 @@ int main(){
 	
 	//Ciclo en el que solicitamos los numeros a ingresar
 	for(contador=0;contador<5;contador++){
-		printf("Ingresa un numero: ");
+		printf("Ingresa un numeroo: ");
 		gets(numeros[contador]);
 	}
 	

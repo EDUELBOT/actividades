@@ -22,7 +22,7 @@ if(numero.toString().match(/^[0-9]+$/)){
             suma = suma + multi;
         }
         
-     console.log("suma: ",suma);
+     console.log("sumaa: ",suma);
         
      modulo = suma%11;
      console.log("Modulo:", modulo);
